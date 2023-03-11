@@ -1,4 +1,4 @@
-### Olá = 'Sou Hygor de Souza 1👋'
+### Olá = 'Sou Hygor de Souza 👋'
 
 
 - 🔭 Trabalho com Back-end ...
